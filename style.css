@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(198, 231, 231);
+}
+.profile-pic{
+    float: right;
+    padding :0px 0px; 
+}
+.profile-pic img{
+    margin-top: -50px;
+}
+.profile-info{
+    width: 50%
+    
+     
+    
+}
+.profile-info h1{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    
+    
+}
+.profile-info p{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    
+}
+.grid1{
+    
+    border: 1px black solid;
+    padding: 0 10px;
+}
+.grid2{
+    
+    border:1px black solid;
+    padding: 0 10px;
+    
+}
+.grid3{
+     
+    border: 1px black solid;
+    padding: 0 10px;
+}
+.col1{
+     
+    border: 1px black solid;
+    padding: 0 10px;
+ 
+    
+}
+.col2{
+     
+    border: 1px black solid;
+    padding: 0 10px;
+ 
+    
+}
+.hobbies{
+
+margin-left: 20px;
+}
+.table {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0;
+    border: 2px black solid;
+    width:60%;
+    margin-left: 10px;
+}
+.table2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0px;
+    border: 2px black solid;
+    width:60%;
+    margin-left: 10px;
+}
+ 
+.x{
+   
+margin-left: 20px; 
+}
+.linkin{
+    float: right;
+    margin-right: 20px;
+    
+    
+}
+a {
+    font-size: 25px
+}
